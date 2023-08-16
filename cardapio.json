@@ -1,0 +1,12 @@
+{
+    "itens" : [
+                "cafe;Cafe;R$ 3.00",
+                "chantily;Chantily (extra do cafe);R$ 1.50",
+                "suco;Suco Natural;R$ 6.20",
+                "sanduiche;Sanduiche;R$ 6.50",
+                "queijo;Queijo (extra do sanduiche);R$ 2.00",
+                "salgado;Salgado;R$ 7.25",
+                "combo1;1 Suco e 1 Sanduiche;R$ 9.50",
+                "combo2;1 Cafe e 1 Sanduiche;R$ 7.50"
+            ]
+}
